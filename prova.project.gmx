@@ -10,6 +10,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\yay</object>
+    <object>objects\ranamerd</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
